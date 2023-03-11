@@ -1,0 +1,80 @@
+@charset "UTF-8";
+
+.topo{
+    background-color: paleturquoise;
+}
+.texto_servicos{
+    text-align: center;
+    margin-top: 50px;
+    color: white;
+}
+.servicos{
+    padding-top: 20px;
+    padding-bottom: 30px;
+    background-color: rgb(139, 240, 240);
+}
+.banho{
+    margin-top: 20px;
+}
+.texto_banho{
+    padding-left: 80px;
+}
+.btn{
+    background-color: paleturquoise;
+    color: rgb(0, 0, 0);
+}
+.rodape{
+    background-color: paleturquoise;
+    margin-top: 50px;
+}
+.texto_adocao{
+    text-align: center;
+}
+.adocao{
+    margin-top: 40px;
+}
+.cor{
+    color: paleturquoise;
+}
+.texto_tosa{
+    text-align: center;
+}
+.tosa{
+    background-color: rgb(139, 240, 240);
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.porte{
+    margin-left: 80px;
+}
+.portes{
+    margin-top: 15px;
+}
+.texto_dog{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.card1{
+    margin-bottom: 20px;
+}
+.card_gato{
+    margin-top: 15px;
+}
+.dog_texto{
+    text-align: center;
+}
+.produtos_dog{
+    margin-top: 30px;
+}
+.pelagem{
+    margin-top: 15px;
+}
+.roedores{
+    margin-top: 20px;
+}
+
+.porquinho{
+    text-align: center; 
+    margin-top: 30px;
+}
